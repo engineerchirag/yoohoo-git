@@ -1,0 +1,20 @@
+{
+  "name": "yoohoo-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup ./src/index.js --file ./build/bundle.js --format iife"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engineerchirag/yoohoo-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engineerchirag/yoohoo-git/issues"
+  },
+  "homepage": "https://github.com/engineerchirag/yoohoo-git#readme"
+}
